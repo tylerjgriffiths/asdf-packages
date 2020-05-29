@@ -1,4 +1,4 @@
-Name: split-sequence
+Name: vecto
 Version: 1.5
 Release: 1%{?dist}
 License: BSD
