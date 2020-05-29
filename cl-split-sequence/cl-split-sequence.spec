@@ -1,4 +1,4 @@
-Name: cl-split-sequence
+Name: split-sequence
 Version: 2.0.0
 Release: 1%{?dist}
 License: MIT
