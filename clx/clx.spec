@@ -1,10 +1,9 @@
 Name: clx
 Version: 0.7.5
 Release: 1%{?dist}
-License: BSD
-Summary: Portable Perl-compatible regular expressions for Common Lisp
-Source0: https://github.com/sharplispers/clx/archive/0.7.5.tar.gz
-Requires: sbcl
+License: MIT
+Summary: An X11 client library for Common Lisp
+Source0: https://github.com/sharplispers/%{name}/archive/%{version}.tar.gz
 
 %define _asdfdir %{_datadir}/asdf-packages/
 

@@ -3,11 +3,7 @@ Version: 2.1.1
 Release: 1%{?dist}
 License: BSD
 Summary: Portable Perl-compatible regular expressions for Common Lisp
-Source0: https://github.com/edicl/cl-ppcre/archive/v2.1.1.tar.gz
-BuildRequires: sbcl
-BuildRequires: texinfo
-BuildRequires: autoconf
-Requires: sbcl
+Source0: https://github.com/edicl/%{name}/archive/v%{version}.tar.gz
 
 %define _asdfdir %{_datadir}/asdf-packages/
 
